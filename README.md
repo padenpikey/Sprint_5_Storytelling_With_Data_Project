@@ -12,7 +12,7 @@ https://www.loom.com/share/59789f24083b4382ac86e43f81e8af5c
 
 ## Zipped folder contents:
   3 hand-written mockups
-  1 Screenshot of 'Understanding Return Rate by Sub-cateogory' Template
+  1 Screenshot of 'Understanding Return Rate by Sub-cateogory' Dashboard Template
 
   Dear TripleTen reviewer, please understand I've had one extension and two 1-on-1 Zoom sessions to present all contents provided as it is today -- as suggested by TripleTen Tutors (Mike Lee and Reyhan Merekar). 
   I welcome feedback, but may not be able to provide any further edits -- as I'm truthfully exhausted :/
